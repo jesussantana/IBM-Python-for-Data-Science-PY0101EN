@@ -17,6 +17,8 @@
 
 4) Working with Data in Python  
 
+5) Working with Numpy Arrays
+
 ## Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this free course is for you.
 
 ## You can start creating your own data science projects and collaborating with other data scientists using IBM Watson Studio. When you sign up, you get free access to Watson Studio. Start now and take advantage of this platform. 
