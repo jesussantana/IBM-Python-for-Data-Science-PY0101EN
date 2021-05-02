@@ -6,18 +6,38 @@
 
 ## This introduction to Python will kickstart your learning of Python for data science, as well as programming in general. This beginner-friendly Python course will take you from zero to programming in Python in a matter of hours.  
   
+  
 
-## Topics covered: 
+## COURSE SYLLABUS: 
 
-1) Python Basics 
+### Module 1 - Python Basics
 
-2) Python Data Structures 
+- Your first program
+- Types
+- Expressions and Variables
+- String Operations 
 
-3) Python Programming Fundamentals 
+### Module 2 - Cleaning and Preparing the Data
 
-4) Working with Data in Python  
+- Lists and Tuples
+- Sets
+- Dictionaries
 
-5) Working with Numpy Arrays
+### Module 3 - Python Programming Fundamentals
+
+- Conditions and Branching
+- Loops
+- Functions
+- Objects and Classes
+
+### Module 4 - Working with Data in Python
+
+- Reading files with open
+- Writing files with open
+- Loading data with Pandas
+- Working with and Saving data with Pandas 
+
+
 
 ## Upon its completion, you'll be able to write your own Python scripts and perform basic hands-on data analysis using our Jupyter-based lab environment. If you want to learn Python from scratch, this free course is for you.
 
